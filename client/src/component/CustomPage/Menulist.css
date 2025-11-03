@@ -1,0 +1,26 @@
+.dashboard-container {
+  background-color: rgb(2, 2, 51);
+  color: #fff;
+}
+
+.dashboard-list {
+  background-color: rgb(2, 2, 51);
+  color: white;
+  width: 220px;
+}
+
+.ul-list {
+  border-bottom: 1px solid #fff;
+  cursor: pointer;
+  padding: 4px 10px 18px 10px;
+}
+.ul-list.activeMenu {
+  background: #636161;
+}
+.header{
+  position: sticky;
+  top: 0;
+  z-index: 1000;
+  padding: 10px 20px;   /* Optional */
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+}
