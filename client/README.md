@@ -16,6 +16,8 @@ The React Compiler is not enabled on this template because of its impact on dev 
 If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
 
 
+<!-- Note: Following step for running project:- -->
+
 <!-- => I have made the fullstack expense_tracker project as mentioned on guideline. I have used mysql database instead of mongodb due to antivirus blocking & some ristriction on system of mongodb link and other links. 
 => Frontend = React.js
 => Backend = Node.js
@@ -23,7 +25,10 @@ If you are developing a production application, we recommend using TypeScript wi
 
 steps=> I have made two folder, for fronted folder name is "client" and for backend folder name is "server", start the frontend, run the command "npm run dev" and for backend start run the command "npm start", -->
 
+<!-- Running port: http://localhost:5174 -->
+
 <!-- database step =>
+
 
 => show databases;
 => create database expances;
