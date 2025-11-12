@@ -25,7 +25,7 @@ If you are developing a production application, we recommend using TypeScript wi
 
 steps=> I have made two folder, for fronted folder name is "client" and for backend folder name is "server", start the frontend, run the command "npm run dev" and for backend start run the command "npm start", -->
 
-<!-- Running port: http://localhost:5174 -->
+<!-- Running port: http://localhost:5173 -->
 
 <!-- database step =>
 
